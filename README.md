@@ -2,7 +2,7 @@
 
 Submitted by: **Nikhil Joshi**
 
-**Name of your app** is a health metrics app that allows users to track daily water intake
+**Water Fit** is a health metrics app that allows users to track daily water intake
 
 Time spent: **10** hours spent in total
 
