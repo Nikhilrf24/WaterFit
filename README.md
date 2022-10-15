@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] **Improve and customize the user interface through styling and coloring**
+- [X] **Implement orientation responsivity**
 
 ## Video Walkthrough
 
