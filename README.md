@@ -27,6 +27,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://user-images.githubusercontent.com/27730208/195965973-10cde0dc-da55-4bc8-b160-380b23756dae.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **This GIF shows the Scrolling part for the RecyclerView**
+
 <img src='https://user-images.githubusercontent.com/27730208/196004479-d9b6eaf6-1b73-49f4-993a-28be691436d0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
